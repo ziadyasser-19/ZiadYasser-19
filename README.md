@@ -1,6 +1,22 @@
-### Hi there 👋, Ziad Yasser Adel
-#### Flutter Developer - Software Engineer
-A 21-year-old third-year university student with excellent interpersonal skills and a deep passion for computer science and mobile app development. With strong expertise in Flutter and Dart, I am dedicated to designing innovative cross-platform applications. I am constantly honing my skills through hands-on projects and thrive on turning ideas into functional, user-friendly apps. My journey is driven by a love for technology, a commitment to continuous learning, and a goal to make a meaningful impact in the world of mobile development.
+# Hi there 👋  
+## **Ziad Yasser Adel**  
+
+### *Flutter Developer - Software Engineer*  
+
+---
+
+#### About Me  
+I am a **21-year-old third-year university student** with excellent interpersonal skills and a deep passion for computer science and mobile app development.  
+
+With strong expertise in **Flutter** and **Dart**, I am dedicated to designing innovative cross-platform applications. I constantly hone my skills through hands-on projects and thrive on turning ideas into functional, user-friendly apps.  
+
+My journey is driven by:  
+- A **love for technology**,  
+- A **commitment to continuous learning**,  
+- And a **goal to make a meaningful impact** in the world of mobile development.
+
+---
+
 
 ### Skills
 <div align="center">
@@ -13,7 +29,7 @@ A 21-year-old third-year university student with excellent interpersonal skills 
 </div>
 
 
-
+---
 
  
 💻 **Currently undergoing a Flutter Mobile Application Trainee Internship**  
