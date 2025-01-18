@@ -8,16 +8,8 @@ Skills: Flutter - Dart - FireBase - MongoDb - PostgreSQL - Java
 - 💻 currently  Flutter Mobile application Trainee Internship in ODC & Digital Hub  ( Jan 28 - feb 28 ) 
 
 
-<a href="https://github.com/ZiadYasser-19" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="fill: #181717;" />
-</a>
-<a href="https://www.linkedin.com/in/ziad-yasser-adel-24082427a/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="fill: #0077B5;" />
-</a>
-<a href="https://www.facebook.com/ziadyasser.adel.1" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" style="fill: #1877F2;" />
-</a>
-<a href="https://www.instagram.com/ziadyass19/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40" style="fill: #E4405F;" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZiadYasser-19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-yasser-adel-24082427a/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ziadyasser.adel.1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ziadyass19/)
 
