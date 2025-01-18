@@ -13,8 +13,12 @@ A 21-year-old third-year university student with excellent interpersonal skills 
 </div>
 
  
-- 💻 currently  Flutter Mobile application Trainee Internship in ODC & Digital Hub  ( Jan 28 - feb 28 ) 
+💻 **Currently undergoing a Flutter Mobile Application Trainee Internship**  
+Hosted by **ODC & Digital Hub** from **January 28th to February 28th, 2025**.  
+This internship focuses on enhancing skills in Flutter development, building real-world applications, and collaborating in a professional environment.
 
+
+### Contact Me Via :
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZiadYasser-19)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-yasser-adel-24082427a/)
