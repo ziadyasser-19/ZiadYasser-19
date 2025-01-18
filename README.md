@@ -8,7 +8,7 @@ A 21-year-old third-year university student with excellent interpersonal skills 
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" title="Dart" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />
 </div>
 
