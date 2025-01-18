@@ -2,7 +2,15 @@
 #### Flutter Developer - Software Engineer
 A 21-year-old third-year university student with excellent interpersonal skills and a deep passion for computer science and mobile app development. With strong expertise in Flutter and Dart, I am dedicated to designing innovative cross-platform applications. I am constantly honing my skills through hands-on projects and thrive on turning ideas into functional, user-friendly apps. My journey is driven by a love for technology, a commitment to continuous learning, and a goal to make a meaningful impact in the world of mobile development.
 
-Skills: Flutter - Dart - FireBase - MongoDb - PostgreSQL - Java 
+### Skills
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter" />
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" title="Dart" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />
+</div>
 
  
 - 💻 currently  Flutter Mobile application Trainee Internship in ODC & Digital Hub  ( Jan 28 - feb 28 ) 
