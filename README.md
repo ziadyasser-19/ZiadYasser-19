@@ -5,8 +5,19 @@ A 21-year-old third-year university student with excellent interpersonal skills 
 Skills: Flutter - Dart - FireBase - MongoDb - PostgreSQL - Java 
 
  
-- 💻 currently  Flutter Mobile application Trainee Internship in ODC & Digital Hub - ( Jan 28 - feb 28 ) 
+- 💻 currently  Flutter Mobile application Trainee Internship in ODC & Digital Hub  ( Jan 28 - feb 28 ) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZiadYasser-19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ziad-yasser-adel-24082427a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ziadyasser.adel.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ziadyass19/)  
+<a href="https://github.com/ZiadYasser-19" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="fill: #181717;" />
+</a>
+<a href="https://www.linkedin.com/in/ziad-yasser-adel-24082427a/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="fill: #0077B5;" />
+</a>
+<a href="https://www.facebook.com/ziadyasser.adel.1" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" style="fill: #1877F2;" />
+</a>
+<a href="https://www.instagram.com/ziadyass19/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40" style="fill: #E4405F;" />
+</a>
 
