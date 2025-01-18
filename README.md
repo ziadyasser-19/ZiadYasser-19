@@ -12,6 +12,9 @@ A 21-year-old third-year university student with excellent interpersonal skills 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />
 </div>
 
+
+
+
  
 💻 **Currently undergoing a Flutter Mobile Application Trainee Internship**  
 Hosted by **ODC & Digital Hub** from **January 28th to February 28th, 2025**.  
