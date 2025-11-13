@@ -23,9 +23,7 @@ With strong expertise in **Flutter** and **Dart**, I am dedicated to designing i
 ---
 
  
-💻 **Currently undergoing a Flutter Mobile Application Trainee Internship**  
-Hosted by **ODC & Digital Hub** from **January 28th to February 28th, 2025**.  
-This internship focuses on enhancing skills in Flutter development, building real-world applications, and collaborating in a professional environment.
+💻 **Currently Working as a Freelance Mobile Application**  
 
 ---
 
